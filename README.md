@@ -54,17 +54,22 @@ A sleek and interactive To-Do List app built using **React**, styled with **Tail
 
    npm run dev
 
-#Project Structure
-src/
-├── App.jsx
-├── Header.jsx
-├── ToDoList.jsx
-├── ToDoItem.jsx
-├── index.css
-└── main.jsx
+## Project Structure
 
-#License
+```
+src/
+  components/
+    Header.jsx
+    ToDoList.jsx
+    ToDoItem.jsx
+  App.jsx
+  index.css
+  main.jsx
+```
+
+
+# License
 This project is open-source and free to use. Built for educational and showcase purposes.
 
-#Author
+# Author
 Xavier — Aspiring developer, passionate about creative and polished user experiences.
